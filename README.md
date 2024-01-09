@@ -15,8 +15,11 @@ Fee: 10 AVCD
 Total supply: 99,299,373 AVCD (constantly decreasing)
 
 **$AVCD has a strong deflationary model:**
+
 1.each transaction reduces total supply by 10 AVCD;
+
 2.on a regular basis we buy and burn AVCD tokens from Avocado NFT neuron income;
+
 3.we organize auctions with various valuable items that you can buy with AVCD tokens and burn 20% tokens of the purchase amount.
 
 
