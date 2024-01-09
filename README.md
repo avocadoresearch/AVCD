@@ -5,9 +5,13 @@ Project founder is the true OG of the Internet Computer ecosystem, who has been 
 **Basic information**:
 
 Ticker: $AVCD 
+
 Standard: ICRC1 
-Canister ID: 3kf65-giaaa-aaaak-qcw2q-cai 
+
+Canister ID: 3kf65-giaaa-aaaak-qcw2q-cai
+ 
 Fee: 10 AVCD 
+
 Total supply: 99,299,373 AVCD (constantly decreasing)
 
 **$AVCD has a strong deflationary model:**
