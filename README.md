@@ -16,7 +16,7 @@ Our global goal is to build a strong community around the Internet Computer ecos
 **Goals for 2024:**
 
 1. Listing $AVCD on CoinGecko, CMC, ICPCoins.com 
-2. Significant increase liquidity on ICPSwap
+2. Significant increase liquidity
 3. Token listing on new DEX
 4. New NFT collection available for purchase for $AVCD
 5. Add new utility for the token
