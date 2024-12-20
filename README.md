@@ -13,11 +13,4 @@ Project founder is the true OG of the Internet Computer ecosystem, who has been 
 
 Our global goal is to build a strong community around the Internet Computer ecosystem. 
 
-**Goals for 2024:**
-
-1. Listing $AVCD on CoinGecko, CMC, ICPCoins.com 
-2. Significant increase liquidity
-3. Token listing on new DEX
-4. New NFT collection available for purchase for $AVCD
-5. Add new utility for the token
-6. Avocado Research will continue to publish analytical researches, execute our plan for Avocado NFT and $AVCD token
+More about our plan: https://medium.com/@av8cado/proposal-to-update-the-original-plan-9b99e522f073
